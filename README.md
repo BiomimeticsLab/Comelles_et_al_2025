@@ -35,7 +35,7 @@ Generates heatmaps and comparative angular statistics between epithelial cells a
 - Computes cosine similarity between angle maps
 - Saves comparison metrics and plots heatmap of alignment correlation
 
-### `/PIV_veocity_profile.m`
+### `/PIV_velocity_profile.m`
 Processes PIV (Particle Image Velocimetry) data to extract velocity profiles:
 - Grids and averages x and y velocity components
 - Exports mean and standard deviation profiles for plotting and statistical analysis
